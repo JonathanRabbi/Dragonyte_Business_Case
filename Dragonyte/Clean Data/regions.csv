@@ -1,0 +1,165 @@
+Region,Country,ID
+Asia Pacific,China,1
+Asia Pacific,India,1
+Asia Pacific,Japan,1
+Asia Pacific,South Korea,1
+Asia Pacific,Indonesia,1
+Asia Pacific,Thailand,1
+Asia Pacific,Vietnam,1
+Asia Pacific,Malaysia,1
+Asia Pacific,Singapore,1
+Asia Pacific,Philippines,1
+Asia Pacific,Cambodia,1
+Asia Pacific,Myanmar,1
+Asia Pacific,Laos,1
+Asia Pacific,Bangladesh,1
+Asia Pacific,Pakistan,1
+Asia Pacific,Nepal,1
+Asia Pacific,Bhutan,1
+Asia Pacific,Mongolia,1
+Asia Pacific,Sri Lanka,1
+Asia Pacific,Kazakhstan,1
+Asia Pacific,Uzbekistan,1
+Asia Pacific,Kyrgyzstan,1
+Asia Pacific,Tajikistan,1
+Asia Pacific,Afghanistan,1
+Asia Pacific,Turkmenistan,1
+Asia Pacific,Azerbaijan,1
+Asia Pacific,Armenia,1
+Australasia,Australia,2
+Australasia,New Zealand,2
+Australasia,Papua New Guinea,2
+Australasia,Fiji,2
+Australasia,Solomon Islands,2
+Eastern Europe,Russia,3
+Eastern Europe,Poland,3
+Eastern Europe,Ukraine,3
+Eastern Europe,Hungary,3
+Eastern Europe,Czech Republic,3
+Eastern Europe,Romania,3
+Eastern Europe,Bulgaria,3
+Eastern Europe,Georgia,3
+Eastern Europe,Estonia,3
+Eastern Europe,Latvia,3
+Eastern Europe,Lithuania,3
+Eastern Europe,Belarus,3
+Eastern Europe,Slovakia,3
+Eastern Europe,Moldova,3
+Eastern Europe,Serbia,3
+Eastern Europe,Kosovo,3
+Eastern Europe,North Macedonia,3
+Eastern Europe,Albania,3
+Eastern Europe,Croatia,3
+Eastern Europe,Bosnia and Herzegovina,3
+Eastern Europe,Montenegro,3
+Latin America,Brazil,4
+Latin America,Mexico,4
+Latin America,Argentina,4
+Latin America,Chile,4
+Latin America,Colombia,4
+Latin America,Peru,4
+Latin America,Venezuela,4
+Latin America,Ecuador,4
+Latin America,Bolivia,4
+Latin America,Paraguay,4
+Latin America,Uruguay,4
+Latin America,Costa Rica,4
+Latin America,Cuba,4
+Latin America,Guatemala,4
+Latin America,Honduras,4
+Latin America,Nicaragua,4
+Latin America,Panama,4
+Latin America,El Salvador,4
+Latin America,Dominican Republic,4
+Latin America,Guyana,4
+Latin America,Suriname,4
+Latin America,French Guiana,4
+Middle East and Africa,Algeria,5
+Middle East and Africa,Angola,5
+Middle East and Africa,Benin,5
+Middle East and Africa,Botswana,5
+Middle East and Africa,Burkina Faso,5
+Middle East and Africa,Burundi,5
+Middle East and Africa,Côte d'Ivoire,5
+Middle East and Africa,Cameroon,5
+Middle East and Africa,Cape Verde,5
+Middle East and Africa,Central African Republic,5
+Middle East and Africa,Chad,5
+Middle East and Africa,Comoros,5
+Middle East and Africa,Congo (Brazzaville),5
+Middle East and Africa,Congo (Kinshasa),5
+Middle East and Africa,Djibouti,5
+Middle East and Africa,Egypt,5
+Middle East and Africa,Equatorial Guinea,5
+Middle East and Africa,Eritrea,5
+Middle East and Africa,Eswatini,5
+Middle East and Africa,Ethiopia,5
+Middle East and Africa,Gabon,5
+Middle East and Africa,Gambia,5
+Middle East and Africa,Ghana,5
+Middle East and Africa,Guinea,5
+Middle East and Africa,Guinea-Bissau,5
+Middle East and Africa,Iran,5
+Middle East and Africa,Israel,5
+Middle East and Africa,Kenya,5
+Middle East and Africa,Lesotho,5
+Middle East and Africa,Liberia,5
+Middle East and Africa,Libya,5
+Middle East and Africa,Madagascar,5
+Middle East and Africa,Malawi,5
+Middle East and Africa,Mali,5
+Middle East and Africa,Mauritania,5
+Middle East and Africa,Mauritius,5
+Middle East and Africa,Morocco,5
+Middle East and Africa,Mozambique,5
+Middle East and Africa,Namibia,5
+Middle East and Africa,Niger,5
+Middle East and Africa,Nigeria,5
+Middle East and Africa,Rwanda,5
+Middle East and Africa,São Tomé and Príncipe,5
+Middle East and Africa,Saudi Arabia,5
+Middle East and Africa,Senegal,5
+Middle East and Africa,Seychelles,5
+Middle East and Africa,Sierra Leone,5
+Middle East and Africa,Somalia,5
+Middle East and Africa,South Africa,5
+Middle East and Africa,South Sudan,5
+Middle East and Africa,Sudan,5
+Middle East and Africa,Tanzania,5
+Middle East and Africa,Togo,5
+Middle East and Africa,Tunisia,5
+Middle East and Africa,Turkey,5
+Middle East and Africa,Western Sahara,5
+Middle East and Africa,Uganda,5
+Middle East and Africa,Zambia,5
+Middle East and Africa,Zimbabwe,5
+Middle East and Africa,Syria,5
+Middle East and Africa,Iraq,5
+Middle East and Africa,Jordan,5
+Middle East and Africa,Oman,5
+Middle East and Africa,Yemen,5
+Middle East and Africa,United Arab Emirates,5
+Middle East and Africa,West Bank,5
+Middle East and Africa,Lebanon,5
+North America,United States,6
+North America,Canada,6
+Western Europe,Germany,7
+Western Europe,France,7
+Western Europe,United Kingdom,7
+Western Europe,Italy,7
+Western Europe,Spain,7
+Western Europe,Netherlands,7
+Western Europe,Switzerland,7
+Western Europe,Belgium,7
+Western Europe,Austria,7
+Western Europe,Sweden,7
+Western Europe,Denmark,7
+Western Europe,Norway,7
+Western Europe,Ireland,7
+Western Europe,Portugal,7
+Western Europe,Finland,7
+Western Europe,Greece,7
+Western Europe,Iceland,7
+Western Europe,Luxembourg,7
+Western Europe,Malta,7
+Western Europe,Slovenia,7
