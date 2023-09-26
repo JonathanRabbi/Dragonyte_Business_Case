@@ -30,6 +30,12 @@ The objective of this project is to analyze the Dragonyte Brewery's business dat
 * Providing predictive analytics and explanation of the model used.
 * Giving strategic recommendations to the Dragonyte Board.
 
+Preview Dashboard:
+<img width="985" alt="Screenshot 2023-09-26 at 11 29 05" src="https://github.com/JonathanRabbi/Dragonyte_Business_Case-/assets/135423708/e312bcb6-7d3b-471f-af09-d56c3048a20e" width="300" height="500">
+![Screenshot 2023-09-26 at 11 25 34](https://github.com/JonathanRabbi/Dragonyte_Business_Case-/assets/135423708/82f2cdbb-d9a9-4733-8c9d-f6c00a07b8af)
+<img width="999" alt="Screenshot 2023-09-26 at 11 28 43" src="https://github.com/JonathanRabbi/Dragonyte_Business_Case-/assets/135423708/45d3f138-06b3-49d0-9735-75c552efcd2e" width="300" height="500">
+
+
 
 
 ## Personal Situation
